@@ -1,0 +1,23 @@
+.red-text{
+    color: green;
+}
+
+
+ h2{
+    color:gray;
+ }
+
+
+ #main{
+    color:aqua
+ }
+ 
+
+ p[draggable="false"]{
+    color: blueviolet;
+ }
+
+
+ *{
+   color: palevioletred;
+ }
